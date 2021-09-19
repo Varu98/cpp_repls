@@ -158,7 +158,7 @@ cout<<
 */
 
 
-//ques 11 by chutiya abhinendra lauda saala
+//ques 11 by lawda haggu harsh #jhatkabaal
 /*
 void main(){
   char c;
