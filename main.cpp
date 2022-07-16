@@ -48,7 +48,7 @@ void ques5()
 }
 
 
-// //ques 7 by ghileri
+// //ques 7 by JOD
 void ques7(){
   float pi=3.14;
   int r;
